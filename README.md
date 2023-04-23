@@ -14,6 +14,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+The application was built with React + MUI + Redux
+
 Photos of the App
 
 ![HomeScreen](https://user-images.githubusercontent.com/92999815/233854234-f75774d1-9c5a-4d8d-b379-e51ac96a28d0.JPG)
