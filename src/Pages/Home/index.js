@@ -1,12 +1,12 @@
-import SearchAppBar from '../../components/NavBar/NavBar';
-import Hero from '../../components/hero/Hero';
-import Product from '../../components/Products/Product';
+import SearchAppBar from "../../components/NavBar/NavBar";
+import Cover from "../../components/Cover";
+import Product from "../../components/Products/Product";
 
 function Home() {
     return (
-        <div className='Home'>
+        <div className="Home">
             <SearchAppBar />
-            <Hero />
+            <Cover />
             <Product />
         </div>
     );
